@@ -1,0 +1,149 @@
+[
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 4",
+        "reference_2": "Slide 5"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 5",
+        "reference_2": "Slide 7"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 1",
+        "reference_2": "Slide 3"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 1",
+        "reference_2": "Slide 6"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 2",
+        "reference_2": "Slide 7"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 3",
+        "reference_2": "Slide 6"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 2",
+        "reference_2": "Slide 4"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 5",
+        "reference_2": "Slide 6"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 6",
+        "reference_2": "Slide 7"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 4",
+        "reference_2": "Slide 7"
+    },
+    {
+        "contradiction": true,
+        "type": "Numerical",
+        "reason": "Statement 1 claims '$2M Saved in lost productivity hours' and '15 mins Saved per slide created'. Statement 2 claims '$3M saved in lost productivity hours annually' and '20 mins saved per slide created'. These numerical values directly contradict each other for the same metrics.",
+        "reference_1": "Slide 1",
+        "reference_2": "Slide 2"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 3",
+        "reference_2": "Slide 5"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 2",
+        "reference_2": "Slide 3"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 1",
+        "reference_2": "Slide 5"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 2",
+        "reference_2": "Slide 6"
+    },
+    {
+        "contradiction": true,
+        "type": "Qualitative",
+        "reason": "Statement 1 lists numerical time savings where Copilot (6 hours) offers more monthly time savings than Gamma (3.5 hours), implying greater efficiency. Statement 2, however, explicitly states 'Key Limitations of Copilot Compared to Gamma's Superior Slide Capabilities', indicating Gamma is superior and Copilot has limitations, which qualitatively contradicts the time savings data presented in Statement 1.",
+        "reference_1": "Slide 4",
+        "reference_2": "Slide 6"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 1",
+        "reference_2": "Slide 4"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 2",
+        "reference_2": "Slide 5"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 1",
+        "reference_2": "Slide 7"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 3",
+        "reference_2": "Slide 4"
+    },
+    {
+        "contradiction": false,
+        "type": null,
+        "reason": null,
+        "reference_1": "Slide 3",
+        "reference_2": "Slide 7"
+    }
+]
