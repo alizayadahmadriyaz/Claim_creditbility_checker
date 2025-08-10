@@ -32,9 +32,21 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-## Requirements
+## ENV
 
 ### 2. Create .env
 ```bash
 GOOGLE_API_KEY=Your_API_KEY
+```
+### 3. Add PPT path
+```bash
+    if __name__ == "__main__":
+    file_path = Your PPT Path  # or .txt
+    result = analyze_document(file_path)
+    print(result.text)
+```
+
+### 4. Run File
+```bash
+    python analyze_ppt.py
 ```
