@@ -1,5 +1,7 @@
 # Contradiction Detector with FAISS + Gemini
 
+[DEMO VIDEO](https://go.screenpal.com/watch/cTj6bmn2csK)
+
 This project detects **factual or logical contradictions** between statements in a document (`.pptx` or `.txt`) using:
 
 - **Sentence embeddings** (`all-MiniLM-L6-v2`)
